@@ -19,11 +19,15 @@ SetiStat is a program to monitor a SETI@home client. It displays
 progress of the recieved work units, earned credit, host information
 and so on.
 
+%description -l pl
+SetiStat to program s³u¿±cy do monitorowania klienta SETI@home.
+Wy¶wietla takie dane jak postêp obróbki pobranych jednostek, liczba
+przeliczonych próbek, czy informacje o systemie.
+
 %prep
 %setup -q
 
 %build
-
 %{__aclocal}
 %{__autoconf}
 %{__automake}
