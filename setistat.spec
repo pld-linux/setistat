@@ -7,7 +7,6 @@ License:	GPL
 Group:		Applications
 Source0:	http://www.rexi.org/downloads/setistat/%{name}-%{version}.tar.gz
 # Source0-md5:	c51f87d005aeb3c831ba913f413a1df5
-# Source0-size:	301747
 URL:		http://www.rexi.org/software/setistat/
 BuildRequires:	autoconf
 BuildRequires:	automake
