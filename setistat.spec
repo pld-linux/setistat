@@ -8,10 +8,12 @@ Group:		Applications
 Source0:	http://www.rexi.org/downloads/setistat/%{name}-%{version}.tar.gz
 # Source0-md5:	c51f87d005aeb3c831ba913f413a1df5
 # Source0-size:	301747
-BuildRequires:	ncurses-devel
-BuildRequires:	libxml2-devel
-Requires:	setiathome
 URL:		http://www.rexi.org/software/setistat/
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libxml2-devel
+BuildRequires:	ncurses-devel
+Requires:	setiathome
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
