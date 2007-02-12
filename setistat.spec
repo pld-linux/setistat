@@ -1,5 +1,5 @@
 Summary:	Program to monitor a SETI@home client
-Summary(pl.UTF-8):   Program do monitorowania klienta SETI@home
+Summary(pl.UTF-8):	Program do monitorowania klienta SETI@home
 Name:		setistat
 Version:	0.8.90
 Release:	0.1
