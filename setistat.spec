@@ -1,5 +1,5 @@
 Summary:	Program to monitor a SETI@home client
-Summary(pl):	Program do monitorowania klienta SETI@home
+Summary(pl.UTF-8):   Program do monitorowania klienta SETI@home
 Name:		setistat
 Version:	0.8.90
 Release:	0.1
@@ -20,10 +20,10 @@ SetiStat is a program to monitor a SETI@home client. It displays
 progress of the recieved work units, earned credit, host information
 and so on.
 
-%description -l pl
-SetiStat to program s³u¿±cy do monitorowania klienta SETI@home.
-Wy¶wietla takie dane jak postêp obróbki pobranych jednostek, liczba
-przeliczonych próbek, czy informacje o systemie.
+%description -l pl.UTF-8
+SetiStat to program sÅ‚uÅ¼Ä…cy do monitorowania klienta SETI@home.
+WyÅ›wietla takie dane jak postÄ™p obrÃ³bki pobranych jednostek, liczba
+przeliczonych prÃ³bek, czy informacje o systemie.
 
 %prep
 %setup -q
